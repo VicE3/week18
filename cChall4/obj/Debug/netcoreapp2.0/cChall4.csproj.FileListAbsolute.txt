@@ -1,0 +1,11 @@
+/Users/victoriaecheverria/Projects/cChall4/cChall4/bin/Debug/netcoreapp2.0/cChall4.deps.json
+/Users/victoriaecheverria/Projects/cChall4/cChall4/bin/Debug/netcoreapp2.0/cChall4.runtimeconfig.json
+/Users/victoriaecheverria/Projects/cChall4/cChall4/bin/Debug/netcoreapp2.0/cChall4.runtimeconfig.dev.json
+/Users/victoriaecheverria/Projects/cChall4/cChall4/bin/Debug/netcoreapp2.0/cChall4.dll
+/Users/victoriaecheverria/Projects/cChall4/cChall4/bin/Debug/netcoreapp2.0/cChall4.pdb
+/Users/victoriaecheverria/Projects/cChall4/cChall4/obj/Debug/netcoreapp2.0/cChall4.csprojResolveAssemblyReference.cache
+/Users/victoriaecheverria/Projects/cChall4/cChall4/obj/Debug/netcoreapp2.0/cChall4.csproj.CoreCompileInputs.cache
+/Users/victoriaecheverria/Projects/cChall4/cChall4/obj/Debug/netcoreapp2.0/cChall4.AssemblyInfoInputs.cache
+/Users/victoriaecheverria/Projects/cChall4/cChall4/obj/Debug/netcoreapp2.0/cChall4.AssemblyInfo.cs
+/Users/victoriaecheverria/Projects/cChall4/cChall4/obj/Debug/netcoreapp2.0/cChall4.dll
+/Users/victoriaecheverria/Projects/cChall4/cChall4/obj/Debug/netcoreapp2.0/cChall4.pdb

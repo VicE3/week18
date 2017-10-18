@@ -1,0 +1,11 @@
+/Users/victoriaecheverria/Projects/cChall3/cChall3/obj/Debug/netcoreapp2.0/cChall3.csprojResolveAssemblyReference.cache
+/Users/victoriaecheverria/Projects/cChall3/cChall3/obj/Debug/netcoreapp2.0/cChall3.csproj.CoreCompileInputs.cache
+/Users/victoriaecheverria/Projects/cChall3/cChall3/obj/Debug/netcoreapp2.0/cChall3.AssemblyInfoInputs.cache
+/Users/victoriaecheverria/Projects/cChall3/cChall3/obj/Debug/netcoreapp2.0/cChall3.AssemblyInfo.cs
+/Users/victoriaecheverria/Projects/cChall3/cChall3/bin/Debug/netcoreapp2.0/cChall3.deps.json
+/Users/victoriaecheverria/Projects/cChall3/cChall3/bin/Debug/netcoreapp2.0/cChall3.runtimeconfig.json
+/Users/victoriaecheverria/Projects/cChall3/cChall3/bin/Debug/netcoreapp2.0/cChall3.runtimeconfig.dev.json
+/Users/victoriaecheverria/Projects/cChall3/cChall3/bin/Debug/netcoreapp2.0/cChall3.dll
+/Users/victoriaecheverria/Projects/cChall3/cChall3/bin/Debug/netcoreapp2.0/cChall3.pdb
+/Users/victoriaecheverria/Projects/cChall3/cChall3/obj/Debug/netcoreapp2.0/cChall3.dll
+/Users/victoriaecheverria/Projects/cChall3/cChall3/obj/Debug/netcoreapp2.0/cChall3.pdb
